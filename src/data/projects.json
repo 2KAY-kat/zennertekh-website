@@ -9,24 +9,6 @@
     "image": "image1.png"
   },
   {
-    "id": "mame-carhire",
-    "name": "Mame Car Hire",
-    "abstract": "Tourism & Logistics Booking System. Real-time availability management and user centered booking flows",
-    "description": "Mame Car Hire is a full-stack car rental application built with Bootstrap and a Django FastAPI. It features a modern UI, admin-based user verification, booking management functionality, and a fully decoupled deployment architecture.",
-    "liveUrl": "https://mamecarhire.com/",
-    "isPrivate": false,
-    "image": "image.png"
-  },
-  {
-    "id": "pritech",
-    "name": " Pritech ICT Solutions",
-    "abstract": "Delivering reliable ICT solutions for businesses across Malawi",
-    "description": "Full Django ERP for ICT service businesses. Mobile-first, production-ready, HTMX-powered. Pritech ICT Solutions is a comprehensive ERP system designed to streamline operations for ICT service providers. Built with Django and HTMX, it offers a mobile-first experience, ensuring accessibility and efficiency for businesses across Malawi.",
-    "liveUrl": "https://pritechmw.com/",
-    "isPrivate": false,
-    "image": "pritech.jpg"
-  },
-  {
     "id": "pastpaper-ai",
     "name": "Pastpaper AI - WebApp",
     "abstract": "Transforming exam preparation with AI-powered past paper analysis. A PWA powered Exam preparation app",
